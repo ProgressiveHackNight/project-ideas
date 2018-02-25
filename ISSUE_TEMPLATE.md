@@ -34,11 +34,11 @@ Answer here.
 ### Project management
 
 #### Checklist for NEW ideas :baby:
-Hey, you're official! You're now part of the growing civic hacking community in Austin. Here's a few things to get started (a couple you've probably already done).
+Hey, you're official! You're now part of the growing Progressive HackNight community. Here's a few things to get started (a couple you've probably already done).
 
 - [x] Create this idea issue
 - [x] Flesh out the who, where, and what questions above
-- [ ] Start the conversation about this new idea on [Slack](https://openaustin-slackin.herokuapp.com/) (this project uses [#general](https://open-austin.slack.com/messages/C036FLME2) <!-- replace this with your preferred channel -->)
+- [ ] Start the conversation about this new idea on [Slack](https://progressivehacknight.slack.com) (this project uses [#general](https://progressivehacknight.slack.com/messages/C4CDHFMKN/) <!-- replace this with your preferred channel -->)
 - [ ] Respond with at least one update on this issue within the next month
 
 #### Checklist for ACTIVE projects :fire:
