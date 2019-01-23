@@ -38,13 +38,15 @@ Hey, you're official! You're now part of the growing Progressive HackNight commu
 
 - [x] Create this idea issue
 - [x] Flesh out the who, where, and what questions above
-- [ ] Start the conversation about this new idea on [Slack](https://progressivehacknight.slack.com) (this project uses [#general](https://progressivehacknight.slack.com/messages/C4CDHFMKN/) <!-- replace this with your preferred channel -->)
-- [ ] Respond with at least one update on this issue within the next month
+- [ ] Join our [Slack](https://progressivehacknight.slack.com)
+- [ ] Join the [#project-leads](https://progressivehacknight.slack.com/messages/CFLCLB1PV/) channel. 
+- [ ] Ping an organizer to get started (The organizer in charge of onboarding new projects will be listed in the channel topic)
 
 #### Checklist for ACTIVE projects :fire:
 Let's get this project started! When this idea starts taking off, the Progressive HackNight Team will start helping this project's lead(s) out with project management and connecting you to resources you may need. To get there, please complete and check off the following:
 
-- [ ] Post an update at least once a month to this issue. Use [BASEDEF](https://github.com/open-austin/cheatsheet-basedef) for ideas, but it's ok even if your update is just "nothing new happened this month" or "we saw a small increase in traffic to our app this month". If there's no activity for two months, that's no problem, life happens. We'll just label this as `backlog` so others know you'll get back to it when you have the time. If nobody hears from you at all in more than two months, we may mark it as `abandoned` so that others can pick up this idea and run with it.
+- [ ] Update your project at least once a month.  This can be either an update on this issue, a ping in the project-ideas channel, rsvp-ing to hacknight, or a conversation with one of the organizers managing project progress (the one listed in the channel topic). 
+  - It's ok even if your update is just "nothing new happened this month" or "we saw a small increase in traffic to our app this month". If nobody hears from you at all in more than one month, we may mark it as `abandoned` so that others can pick up this idea and run with it.
 - [ ] Create a [GitHub repository](https://github.com/new) and Slack channel for work.
 - [ ] [Create issues](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/project-set-up-for-collaboration-with-github/#assignment--add-your-first-issue) to describe each task that you plan to do or need help with and how a contributor can get started on that task. You might start and stop a lot, so consider issues as your to-do list.
 - [ ] Create a [team](https://help.github.com/articles/creating-a-team/) for your core contributors
@@ -56,4 +58,4 @@ Let's get this project started! When this idea starts taking off, the Progressiv
   - Doing this early on can help your team stay organized and to onboard new contributors who wouldn't have access to files you all have shared over email.
 
 
-If you get stuck at any point, feel free to reach out to the leadership team with an email to steering@progressivehacknight.org or come find an organizer at a HackNight. We're here to help bring great ideas to life!
+If you get stuck at any point, feel free to reach out to the leadership team in the slack channel or with an email to organizers@progressivehacknight.org or come find an organizer at a HackNight. We're here to help bring great ideas to life!
